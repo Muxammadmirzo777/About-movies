@@ -17,14 +17,7 @@ body {
 
 header {
     padding: 1rem;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
     background-color: var(--secondary-color);
-}
-
-.container {
-    margin-left: 300px;
-    margin-top: 25px;
 }
 
 .search {
