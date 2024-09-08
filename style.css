@@ -22,10 +22,6 @@ header {
     background-color: var(--secondary-color);
 }
 
-header h1{
-    margin-left: 50px;
-}
-
 .container {
     margin-left: 300px;
     margin-top: 25px;
